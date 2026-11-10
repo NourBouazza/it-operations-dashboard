@@ -1,4 +1,4 @@
-# Northstar Operations Intelligence Center
+# NE7 Operations Intelligence Center
 
 An interactive portfolio project exploring IT Operations and Service Delivery through a simulated command center.
 
